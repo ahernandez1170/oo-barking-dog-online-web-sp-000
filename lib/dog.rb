@@ -12,3 +12,7 @@ class Dog
   french.name = "french"
   
   puts french.name
+  
+  french.bark = "Woof!"
+  
+  puts french.bark
