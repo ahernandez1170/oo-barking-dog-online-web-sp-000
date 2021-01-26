@@ -11,4 +11,4 @@ class Dog
   french = Dog.new
   french.name = "french"
   
-  
+  puts french.name
