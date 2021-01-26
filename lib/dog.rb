@@ -8,6 +8,7 @@ class Dog
     @this_dogs_name
   end
 end
+  
   french = Dog.new
   french.name = "french"
   
