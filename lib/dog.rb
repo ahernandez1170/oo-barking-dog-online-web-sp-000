@@ -9,7 +9,7 @@ class Dog
   end
   
   french = Dog.new
-  french
+  french.name = french
   
   french.bark
     puts "Woof!"
